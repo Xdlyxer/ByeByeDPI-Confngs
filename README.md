@@ -1,3 +1,7 @@
+                  Languages
+        [English](English-README.md)
+
+
 # ByeByeDPI-Configs 
 Привет! и здесь Я буду выпускать свои файлы-конфиги. Если без утомления то просто .json файлы для импорта
 
