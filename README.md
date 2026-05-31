@@ -55,5 +55,12 @@
 - Перезапусти ByeByeDPI
 - Напиши в [Issues](https://github.com/Xdlyxer/ByeByeDPI-Configs/issues)
 
+# Как это должно выглядеть 
+![Главный экран](images/Screenshot_for_instructions3.jpg)
+
+![Настройки](images/Screenshot_for_instructions.jpg)
+
+![Импорт настроек](images/Screenshot_for_instructions2.jpg)
+
 ## Авторы
 **Lyxer116**
